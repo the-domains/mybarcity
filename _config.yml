@@ -6,9 +6,9 @@ color:
   saturation: 0.8345664606895298
   rhythmicContrast: 0.27734023705124855
   brandColors:
-    - '#08080A'
-    - '#FFFF07'
-    - '#DF8433'
-    - '#257E82'
-    - '#FFD9BA'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: MyBarCity
