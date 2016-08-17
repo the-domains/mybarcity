@@ -1,0 +1,14 @@
+layout_spectrum: 0.5703303478658199
+typography_spectrum: 0.1359692073892802
+color:
+  brandStrength: 0.44018509867601097
+  lightness: 0.30770261492580175
+  saturation: 0.8345664606895298
+  rhythmicContrast: 0.27734023705124855
+  brandColors:
+    - '#08080A'
+    - '#FFFF07'
+    - '#DF8433'
+    - '#257E82'
+    - '#FFD9BA'
+name: MyBarCity
